@@ -1,0 +1,4 @@
+# Step 1: ingestion and volume check
+google-play-scraper
+pandas
+requests
